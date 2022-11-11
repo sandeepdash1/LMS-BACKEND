@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "company.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'company.app.jwtCookieName'"
+  },
+  {
+    "name": "company.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'company.app.jwtExpirationMs'"
+  },
+  {
+    "name": "company.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'company.app.jwtCookieName'"
+  },
+  {
+    "name": "company.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'company.app.jwtSecret'"
+  },
+  {
+    "name": "company.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'company.app.jwtCookieName'"
+  },
+  {
+    "name": "company.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'company.app.jwtCookieName'"
+  }
+]}
